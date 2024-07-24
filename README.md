@@ -1,2 +1,3 @@
 # ToDo-list
-Lista editable para anotar quehaceres. HTML/CSS/JS
+Deplyd: https://coderfunk.github.io/Mis_proyectos/ToDo-List
+Lista editable para tomar anotar con JS
